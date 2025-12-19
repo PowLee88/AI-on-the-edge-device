@@ -69,7 +69,7 @@ CONFIG_NN_OPTIMIZATIONS=1
 # end of ESP-NN
 
 # ESP HTTP client
-#
+##
 # CONFIG_ESP_HTTP_CLIENT_ENABLE_HTTPS is not set
 
 ###### end safe optimizations
